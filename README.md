@@ -14,7 +14,7 @@ Binary classification task: predict whether a breast tumor is **malignant (0)** 
 
 ## c. GitHub Repository Link
 
-`<PASTE_YOUR_GITHUB_REPO_LINK_HERE>`
+https://github.com/AADARSH-BHALERAO-BITS/breast-cancer-classifier-dashboard
 
 ## d. Models Used
 
