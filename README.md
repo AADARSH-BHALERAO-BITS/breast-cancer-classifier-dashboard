@@ -95,4 +95,4 @@ project-folder/
 
 ## h. Live Streamlit App Link
 
-`<PASTE_YOUR_DEPLOYED_STREAMLIT_APP_LINK_HERE>`
+https://breast-cancer-classifier-dashboard-n88zyo6khcgwtnjqqdsh5g.streamlit.app/
